@@ -8,4 +8,11 @@ package elements;
     5. Static blocks */
 public class Elements {
 
+    public static void main(String[] args) {
+        System.out.println("CodeBuster");
+        System.out.println("Testing");
+        System.out.print("CodeBuster");
+        System.out.print("Testing");
+    }
+
 }

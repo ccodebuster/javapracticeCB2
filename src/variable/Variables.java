@@ -36,6 +36,10 @@ public class Variables {
 
 
     public static void main(String [] args){    //Main Method Or pre-defined method
+
+        Variables variables = new Variables();  //Create object
+        System.out.println(variables.b);
+        System.out.println(variables.myName);
         int a =10;     //Declare Local Variable
         String name = "CodeBuster";  //Declare Local Variable
         System.out.println("Java is Simple, Secure and Platform Independent Language");
