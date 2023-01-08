@@ -1,7 +1,9 @@
 package encapsulation;
 
 public class Encapsulation_Demo {
-
+        /*To achieve Encapsulation Declared Variables as Private and using get and set methods
+        to access and update the value of a private
+        variable*/
     private int emp_id;
 
     private String emp_name;
